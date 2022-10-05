@@ -1,0 +1,43 @@
+table{
+    background-color: rgb(255, 195, 43);
+    border: 3px solid black;
+    text-align:center;
+    border-color: #22264b;
+    margin-left:auto;
+    margin-right:auto;
+    }
+    
+    tr, td, th{
+    border: 2px solid black;
+    padding: 10px;
+    }
+    
+    .e-cell-1{
+    border: 0px;
+    background-color: rgb(176, 126, 0);
+    }
+    
+    .e-cell-2{
+    border: 0px;
+    background-color: rgb(255, 183, 0);
+    }
+    
+    .t-cell{
+    font-weight: bold;
+    color: white;
+    background-color: #ff4646;
+    }
+    
+    .prednaska{
+    background-color: rgb(219, 101, 255);
+    }
+    
+    .cvicenie{
+    background-color: rgb(64, 67, 255);
+    }
+    
+    .konzultacie{
+    background-color: rgb(85, 255, 85);
+    }
+
+    
